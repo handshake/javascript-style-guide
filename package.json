@@ -1,28 +1,27 @@
 {
-  "name": "airbnb-style",
+  "name": "handshake-javascript-style-guide",
   "version": "2.0.0",
   "description": "A mostly reasonable approach to JavaScript.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "publish-all": "npm publish && cd ./packages/eslint-config-airbnb && npm publish"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript.git"
+    "url": "https://github.com/handshake/javascript-style-guide.git"
   },
   "keywords": [
     "style guide",
     "lint",
+    "eslint",
     "airbnb",
+    "handshake",
     "es6",
-    "es2015",
-    "react",
-    "jsx"
+    "es2015"
   ],
   "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
+  "contributors": [
+      "Kevan Davis <kevan.davis@handshake.com>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/handshake/javascript-style-guide/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript"
+  "homepage": "https://github.com/handshake/javascript-style-guide"
 }
